@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name = "AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="colorPrimary">#FFBF00</item>
+        <item name="colorSecondary">#FFBF00</item>
+        <item name="colorPrimaryDark">#FFBF00</item>
+        <item name="colorAccent">#FFBF00</item>
+    </style>
+
+    <style name="StyleWithoutToolbar" parent = "Theme.AppCompat.Light.DarkActionBar">
+        <item name="colorPrimary">#FFBF00</item>
+        <item name="colorSecondary">#FFBF00</item>
+        <item name="colorPrimaryDark">#FFBF00</item>
+        <item name="colorAccent">#FFBF00</item>
+    </style>
+</resources>
